@@ -1,2 +1,3 @@
-# stock-markets-analytics
-Stock Markets Analytics Zoomcamp 2024 - homework tasks
+# 📈🤖 Stock Markets Analytics Zoomcamp 2024 🤖📈
+
+Repository for storing the homeworks and the final project of Stock Markets Analytics Zoomcamp 2024 (https://pythoninvest.com/course).
